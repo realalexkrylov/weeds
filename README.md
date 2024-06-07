@@ -1,5 +1,5 @@
 # weeds
-## 4-rd place in [AI-CHALLENG contest](https://aiijc.com/ru/)
+## 4-th place in [AI-CHALLENG contest](https://aiijc.com/ru/)
 ## Track agriculture
 ## Segmentation and classification weeds
 
